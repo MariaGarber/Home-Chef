@@ -11,10 +11,11 @@ With Home Chef the user can see a random recipes, search recipies by ingredients
 * Search recipes by ingredients or title
 * Save your favorite recipes
 * Filter recipes by type of meal
-* Enter to your account from any device
+* Login to your account from any device
 * Completely free and ad-free
 
 ### Technologies
+* Java
+* Android Studio
 * Spoonacular API
-* Firebase Authentication 
-* Firebase Realtime Database
+* Firebase
